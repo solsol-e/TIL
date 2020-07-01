@@ -14,3 +14,4 @@
 # 생활코딩 github 1-3강 
 0701
 # 생활코딩 github 3강-7강 
+5강 멤버동료 등록하는 방법: settings  - manage access - invite a collaborator  - 동료 닉네임 또는 이메일 입력 검색 - add 하면 초대장이 발송됨 -친구가 승인되면 추가됨
