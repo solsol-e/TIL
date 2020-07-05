@@ -90,3 +90,5 @@ track 1
 0705 
 atom 프로그램 안에서 확장 설치 하는 법 _ Settings 에서 install packages 에서 emmet 검색 및 설치
 emmet은 코드 짜는 수고를 확 덜어주는 프로그램.
+코드 +TAB 치면 자동완성 (ex) header + tab => <header> </header> 이렇게 자동완성됨
+
