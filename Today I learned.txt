@@ -92,3 +92,6 @@ atom 프로그램 안에서 확장 설치 하는 법 _ Settings 에서 install p
 emmet은 코드 짜는 수고를 확 덜어주는 프로그램.
 코드 +TAB 치면 자동완성 (ex) header + tab => <header> </header> 이렇게 자동완성됨
 
+0706
+bebe's diary html 화면 만들기 (로그인/ 회원가입화면) 
+
